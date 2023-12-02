@@ -13,9 +13,8 @@ const TestimonialPage = () => {
             <h1 className='text-center fw-bold animate__animated 
             animate__fadeInUp animate__delay-1s'>Para Mentor</h1>
             <p className='text-center animate__animated 
-          animate__fadeInUp animate__delay-1s'>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-              Recusandae blanditiis eveniet sed eos. Sapiente aliquid 
-              necessitatibus optio voluptatibus?</p>
+          animate__fadeInUp animate__delay-1s'>Para mentor yang kami sediakan merupakan pengajar yang profesional dan 
+          memiliki kredibilitas tinggi dalam mengajar serta memiliki penglaman yang mumpuni.</p>
             </Col>
           </Row>
           <Row className='row-cols-lg-3 row-cols-1'>
