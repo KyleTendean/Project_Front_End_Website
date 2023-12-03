@@ -46,7 +46,7 @@ const HomePage = () => {
         <Row>
           <Col>
           <h1 className='text-center fw-bold'>Daftar Kelas</h1>
-          <p className='text-center'>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+          <p className='text-center'>Pilih kelas favorit anda!.</p>
           </Col>
         </Row>
         <Row>
